@@ -73,5 +73,8 @@ grails.project.dependency.resolution = {
         //compile ":less-asset-pipeline:1.10.0"
         //compile ":coffee-asset-pipeline:1.8.0"
         //compile ":handlebars-asset-pipeline:1.3.0.3"
+
+	compile ':heroku:1.0.1'
+	compile ':cloud-support:1.0.11'
     }
 }
